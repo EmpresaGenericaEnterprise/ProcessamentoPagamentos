@@ -1,7 +1,6 @@
 package br.dev.empgenent.msrecebimentopedidos;
 
-public record PedidoDTO(
-        String id,
+public record PedidoRequest(
         String clienteId,
         ItemPedidoDTO[] itens
 ) {
