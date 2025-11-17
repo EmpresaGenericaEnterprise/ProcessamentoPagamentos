@@ -6,8 +6,11 @@
 - ms-entrada-pedidos-proc: processamento da fila de pedidos recebidos
 - ms-historicos
 - ms-logs
+- ms-registro-pedido
+- ms-solicitacao-pagamento
+- ms-separacao-itens-pedido
 
-
+![arquitetura](./docs/arquitetura01.png)
 
 ## Subir a estrutura 
 
