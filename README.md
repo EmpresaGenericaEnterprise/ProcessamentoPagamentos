@@ -1,5 +1,14 @@
 # Repositório Principal
 
+## Estrutura 
+
+- ms-recebimento-pedidos: ponto de entrada da aplicacao
+- ms-entrada-pedidos-proc: processamento da fila de pedidos recebidos
+- ms-historicos
+- ms-logs
+
+
+
 ## Subir a estrutura 
 
 ```bash
